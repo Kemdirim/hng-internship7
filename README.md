@@ -1,2 +1,2 @@
 # hng-internship7
-New repo for hng internship
+New repo for hng internship 7
